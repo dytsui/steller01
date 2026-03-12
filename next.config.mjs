@@ -3,9 +3,7 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  experimental: {
-    typedRoutes: false
-  }
+  typedRoutes: false
 };
 
 export default nextConfig;
