@@ -1,8 +1,9 @@
 import jobsData from "@/data/demo/jobs.json";
-import { JobStatusBoard, type DemoJob } from "@/components/jobs/job-status-board";
+import type { DemoJob } from "@/lib/types";
+import { JobStatusBoard } from "@/components/jobs/job-status-board";
 import { Card } from "@/components/ui/card";
 
-const jobs: DemoJob[] = jobsData as DemoJob[];
+const jobs = jobsData as DemoJob[];
 
 export default function JobsPage() {
   return (
