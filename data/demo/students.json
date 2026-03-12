@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stu-ava",
+    "name": "Ava Lin",
+    "level": "Intermediate",
+    "handicap": 18.4,
+    "dominantHand": "right",
+    "lastScore": 82,
+    "lastIssue": "Head sway through impact",
+    "avatar": "AL"
+  },
+  {
+    "id": "stu-luca",
+    "name": "Luca Chen",
+    "level": "Beginner",
+    "handicap": 28.2,
+    "dominantHand": "right",
+    "lastScore": 74,
+    "lastIssue": "Screen glare too high",
+    "avatar": "LC"
+  },
+  {
+    "id": "stu-nora",
+    "name": "Nora Park",
+    "level": "Junior",
+    "handicap": 12.1,
+    "dominantHand": "left",
+    "lastScore": 85,
+    "lastIssue": "Lead wrist lift at top",
+    "avatar": "NP"
+  },
+  {
+    "id": "stu-ethan",
+    "name": "Ethan Wong",
+    "level": "Intermediate",
+    "handicap": 15.7,
+    "dominantHand": "right",
+    "lastScore": 79,
+    "lastIssue": "Early extension tendency",
+    "avatar": "EW"
+  },
+  {
+    "id": "stu-mila",
+    "name": "Mila Tan",
+    "level": "Beginner",
+    "handicap": 31.5,
+    "dominantHand": "right",
+    "lastScore": 71,
+    "lastIssue": "Screen confidence too low",
+    "avatar": "MT"
+  },
+  {
+    "id": "stu-ryan",
+    "name": "Ryan Koh",
+    "level": "Beginner",
+    "handicap": 25.2,
+    "dominantHand": "right",
+    "lastScore": 77,
+    "lastIssue": "Restricted hip turn",
+    "avatar": "RK"
+  }
+]

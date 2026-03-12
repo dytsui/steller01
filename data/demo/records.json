@@ -1,0 +1,122 @@
+[
+  {
+    "id": "swing-demo-001",
+    "studentId": "stu-ava",
+    "title": "Ava · Driver session",
+    "createdAt": "2026-03-01T09:00:00+08:00",
+    "score": 82,
+    "tempo": "2.9:1",
+    "primaryIssue": "Head sway through impact",
+    "secondaryIssue": "Restricted hip turn",
+    "mode": "upload",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-002",
+    "studentId": "stu-luca",
+    "title": "Luca · 7 iron screen replay",
+    "createdAt": "2026-03-02T09:11:00+08:00",
+    "score": 74,
+    "tempo": "2.5:1",
+    "primaryIssue": "Screen glare too high",
+    "secondaryIssue": "Tempo too fast",
+    "mode": "screen",
+    "screenMode": true
+  },
+  {
+    "id": "swing-demo-003",
+    "studentId": "stu-nora",
+    "title": "Nora · Wedge session",
+    "createdAt": "2026-03-03T09:22:00+08:00",
+    "score": 85,
+    "tempo": "3.0:1",
+    "primaryIssue": "Lead wrist lift at top",
+    "secondaryIssue": "Finish balance soft",
+    "mode": "camera",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-004",
+    "studentId": "stu-ethan",
+    "title": "Ethan · Driver session",
+    "createdAt": "2026-03-04T09:33:00+08:00",
+    "score": 79,
+    "tempo": "2.7:1",
+    "primaryIssue": "Early extension tendency",
+    "secondaryIssue": "Low shoulder turn",
+    "mode": "upload",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-005",
+    "studentId": "stu-mila",
+    "title": "Mila · 7 iron screen replay",
+    "createdAt": "2026-03-05T09:44:00+08:00",
+    "score": 71,
+    "tempo": "2.4:1",
+    "primaryIssue": "Screen confidence too low",
+    "secondaryIssue": "Subject too small",
+    "mode": "screen",
+    "screenMode": true
+  },
+  {
+    "id": "swing-demo-006",
+    "studentId": "stu-ryan",
+    "title": "Ryan · Wedge session",
+    "createdAt": "2026-03-06T09:55:00+08:00",
+    "score": 80,
+    "tempo": "2.8:1",
+    "primaryIssue": "Across-the-line top",
+    "secondaryIssue": "Low X-Factor",
+    "mode": "upload",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-007",
+    "studentId": "stu-ava",
+    "title": "Ava · Driver session",
+    "createdAt": "2026-03-07T10:06:00+08:00",
+    "score": 76,
+    "tempo": "2.6:1",
+    "primaryIssue": "Sway off the ball",
+    "secondaryIssue": "Steep transition",
+    "mode": "camera",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-008",
+    "studentId": "stu-luca",
+    "title": "Luca · 7 iron session",
+    "createdAt": "2026-03-08T10:17:00+08:00",
+    "score": 84,
+    "tempo": "3.1:1",
+    "primaryIssue": "Open clubface at impact",
+    "secondaryIssue": "Late trail-heel release",
+    "mode": "upload",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-009",
+    "studentId": "stu-nora",
+    "title": "Nora · Wedge session",
+    "createdAt": "2026-03-09T10:28:00+08:00",
+    "score": 78,
+    "tempo": "2.7:1",
+    "primaryIssue": "Loss of posture",
+    "secondaryIssue": "Fast transition",
+    "mode": "upload",
+    "screenMode": false
+  },
+  {
+    "id": "swing-demo-010",
+    "studentId": "stu-ethan",
+    "title": "Ethan · Driver screen replay",
+    "createdAt": "2026-03-10T10:39:00+08:00",
+    "score": 73,
+    "tempo": "2.5:1",
+    "primaryIssue": "Head lift pre-impact",
+    "secondaryIssue": "Overactive hands",
+    "mode": "screen",
+    "screenMode": true
+  }
+]

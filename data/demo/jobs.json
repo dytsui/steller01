@@ -1,0 +1,82 @@
+[
+  {
+    "id": "job-demo-001",
+    "status": "completed",
+    "mode": "upload",
+    "createdAt": "2026-03-01T09:00:00+08:00",
+    "videoLabel": "Ava baseline upload",
+    "progress": 100,
+    "screenMode": false,
+    "recordId": "swing-demo-001"
+  },
+  {
+    "id": "job-demo-002",
+    "status": "completed",
+    "mode": "screen",
+    "createdAt": "2026-03-02T09:11:00+08:00",
+    "videoLabel": "Luca TV replay",
+    "progress": 100,
+    "screenMode": true,
+    "recordId": "swing-demo-002"
+  },
+  {
+    "id": "job-demo-003",
+    "status": "processing",
+    "mode": "camera",
+    "createdAt": "2026-03-03T09:22:00+08:00",
+    "videoLabel": "Nora wedge live",
+    "progress": 64,
+    "screenMode": false,
+    "recordId": "swing-demo-003"
+  },
+  {
+    "id": "job-demo-004",
+    "status": "queued",
+    "mode": "upload",
+    "createdAt": "2026-03-04T09:33:00+08:00",
+    "videoLabel": "Ethan driver DTL",
+    "progress": 18,
+    "screenMode": false,
+    "recordId": "swing-demo-004"
+  },
+  {
+    "id": "job-demo-005",
+    "status": "failed",
+    "mode": "screen",
+    "createdAt": "2026-03-05T09:44:00+08:00",
+    "videoLabel": "Mila tablet replay",
+    "progress": 100,
+    "screenMode": true,
+    "recordId": "swing-demo-005"
+  },
+  {
+    "id": "job-demo-006",
+    "status": "completed",
+    "mode": "upload",
+    "createdAt": "2026-03-06T09:55:00+08:00",
+    "videoLabel": "Ryan 7 iron upload",
+    "progress": 100,
+    "screenMode": false,
+    "recordId": "swing-demo-006"
+  },
+  {
+    "id": "job-demo-007",
+    "status": "processing",
+    "mode": "camera",
+    "createdAt": "2026-03-07T10:06:00+08:00",
+    "videoLabel": "Ava live capture",
+    "progress": 47,
+    "screenMode": false,
+    "recordId": "swing-demo-007"
+  },
+  {
+    "id": "job-demo-008",
+    "status": "queued",
+    "mode": "screen",
+    "createdAt": "2026-03-08T10:17:00+08:00",
+    "videoLabel": "Nora projector replay",
+    "progress": 8,
+    "screenMode": true,
+    "recordId": "swing-demo-008"
+  }
+]

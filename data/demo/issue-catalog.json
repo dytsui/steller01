@@ -1,0 +1,554 @@
+[
+  {
+    "id": "head-sway-impact",
+    "label": "Head sway through impact",
+    "focus": "impact stability",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for head sway through impact.",
+    "description": "Commercial copy and drill mapping entry for head sway through impact."
+  },
+  {
+    "id": "restricted-hip-turn",
+    "label": "Restricted hip turn",
+    "focus": "rotation",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for restricted hip turn.",
+    "description": "Commercial copy and drill mapping entry for restricted hip turn."
+  },
+  {
+    "id": "screen-low-confidence",
+    "label": "Screen confidence too low",
+    "focus": "capture",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for screen confidence too low.",
+    "description": "Commercial copy and drill mapping entry for screen confidence too low."
+  },
+  {
+    "id": "tempo-too-fast",
+    "label": "Tempo too fast",
+    "focus": "tempo",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for tempo too fast.",
+    "description": "Commercial copy and drill mapping entry for tempo too fast."
+  },
+  {
+    "id": "lead-wrist-lift-top",
+    "label": "Lead wrist lift at top",
+    "focus": "wrist structure",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for lead wrist lift at top.",
+    "description": "Commercial copy and drill mapping entry for lead wrist lift at top."
+  },
+  {
+    "id": "finish-balance-soft",
+    "label": "Finish balance soft",
+    "focus": "finish balance",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for finish balance soft.",
+    "description": "Commercial copy and drill mapping entry for finish balance soft."
+  },
+  {
+    "id": "early-extension",
+    "label": "Early extension tendency",
+    "focus": "posture",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for early extension tendency.",
+    "description": "Commercial copy and drill mapping entry for early extension tendency."
+  },
+  {
+    "id": "low-shoulder-turn",
+    "label": "Low shoulder turn",
+    "focus": "rotation",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for low shoulder turn.",
+    "description": "Commercial copy and drill mapping entry for low shoulder turn."
+  },
+  {
+    "id": "subject-too-small",
+    "label": "Subject too small",
+    "focus": "capture",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for subject too small.",
+    "description": "Commercial copy and drill mapping entry for subject too small."
+  },
+  {
+    "id": "screen-glare",
+    "label": "Screen glare too high",
+    "focus": "capture",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for screen glare too high.",
+    "description": "Commercial copy and drill mapping entry for screen glare too high."
+  },
+  {
+    "id": "across-line-top",
+    "label": "Across-the-line top",
+    "focus": "club direction",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for across-the-line top.",
+    "description": "Commercial copy and drill mapping entry for across-the-line top."
+  },
+  {
+    "id": "low-xfactor",
+    "label": "Low X-Factor",
+    "focus": "rotation",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for low x-factor.",
+    "description": "Commercial copy and drill mapping entry for low x-factor."
+  },
+  {
+    "id": "issue-01",
+    "label": "Sway off the ball",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for sway off the ball.",
+    "description": "Commercial copy and drill mapping entry for sway off the ball."
+  },
+  {
+    "id": "issue-02",
+    "label": "Steep transition",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for steep transition.",
+    "description": "Commercial copy and drill mapping entry for steep transition."
+  },
+  {
+    "id": "issue-03",
+    "label": "Open clubface at impact",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for open clubface at impact.",
+    "description": "Commercial copy and drill mapping entry for open clubface at impact."
+  },
+  {
+    "id": "issue-04",
+    "label": "Late trail-heel release",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for late trail-heel release.",
+    "description": "Commercial copy and drill mapping entry for late trail-heel release."
+  },
+  {
+    "id": "issue-05",
+    "label": "Loss of posture",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for loss of posture.",
+    "description": "Commercial copy and drill mapping entry for loss of posture."
+  },
+  {
+    "id": "issue-06",
+    "label": "Head lift pre-impact",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for head lift pre-impact.",
+    "description": "Commercial copy and drill mapping entry for head lift pre-impact."
+  },
+  {
+    "id": "issue-07",
+    "label": "Overactive hands",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for overactive hands.",
+    "description": "Commercial copy and drill mapping entry for overactive hands."
+  },
+  {
+    "id": "issue-08",
+    "label": "Narrow hand path",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for narrow hand path.",
+    "description": "Commercial copy and drill mapping entry for narrow hand path."
+  },
+  {
+    "id": "issue-09",
+    "label": "Flat shoulder turn",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for flat shoulder turn.",
+    "description": "Commercial copy and drill mapping entry for flat shoulder turn."
+  },
+  {
+    "id": "issue-10",
+    "label": "Low hand depth",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for low hand depth.",
+    "description": "Commercial copy and drill mapping entry for low hand depth."
+  },
+  {
+    "id": "issue-11",
+    "label": "Over-tilted spine at address",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for over-tilted spine at address.",
+    "description": "Commercial copy and drill mapping entry for over-tilted spine at address."
+  },
+  {
+    "id": "issue-12",
+    "label": "Pelvis slide forward",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for pelvis slide forward.",
+    "description": "Commercial copy and drill mapping entry for pelvis slide forward."
+  },
+  {
+    "id": "issue-13",
+    "label": "Handle raise through strike",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for handle raise through strike.",
+    "description": "Commercial copy and drill mapping entry for handle raise through strike."
+  },
+  {
+    "id": "issue-14",
+    "label": "Casting in transition",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for casting in transition.",
+    "description": "Commercial copy and drill mapping entry for casting in transition."
+  },
+  {
+    "id": "issue-15",
+    "label": "Trail elbow trapped",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for trail elbow trapped.",
+    "description": "Commercial copy and drill mapping entry for trail elbow trapped."
+  },
+  {
+    "id": "issue-16",
+    "label": "Lead knee collapse",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for lead knee collapse.",
+    "description": "Commercial copy and drill mapping entry for lead knee collapse."
+  },
+  {
+    "id": "issue-17",
+    "label": "Under-rotated finish",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for under-rotated finish.",
+    "description": "Commercial copy and drill mapping entry for under-rotated finish."
+  },
+  {
+    "id": "issue-18",
+    "label": "Reverse pivot tendency",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for reverse pivot tendency.",
+    "description": "Commercial copy and drill mapping entry for reverse pivot tendency."
+  },
+  {
+    "id": "issue-19",
+    "label": "Poor ground pressure timing",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for poor ground pressure timing.",
+    "description": "Commercial copy and drill mapping entry for poor ground pressure timing."
+  },
+  {
+    "id": "issue-20",
+    "label": "Club too inside takeaway",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for club too inside takeaway.",
+    "description": "Commercial copy and drill mapping entry for club too inside takeaway."
+  },
+  {
+    "id": "issue-21",
+    "label": "Head box exit early",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for head box exit early.",
+    "description": "Commercial copy and drill mapping entry for head box exit early."
+  },
+  {
+    "id": "issue-22",
+    "label": "Low chest rotation",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for low chest rotation.",
+    "description": "Commercial copy and drill mapping entry for low chest rotation."
+  },
+  {
+    "id": "issue-23",
+    "label": "Pelvis stall",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for pelvis stall.",
+    "description": "Commercial copy and drill mapping entry for pelvis stall."
+  },
+  {
+    "id": "issue-24",
+    "label": "Short backswing",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for short backswing.",
+    "description": "Commercial copy and drill mapping entry for short backswing."
+  },
+  {
+    "id": "issue-25",
+    "label": "Disconnected arms",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for disconnected arms.",
+    "description": "Commercial copy and drill mapping entry for disconnected arms."
+  },
+  {
+    "id": "issue-26",
+    "label": "Lead arm collapse",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for lead arm collapse.",
+    "description": "Commercial copy and drill mapping entry for lead arm collapse."
+  },
+  {
+    "id": "issue-27",
+    "label": "Clubface shut at top",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for clubface shut at top.",
+    "description": "Commercial copy and drill mapping entry for clubface shut at top."
+  },
+  {
+    "id": "issue-28",
+    "label": "Arms outracing pivot",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for arms outracing pivot.",
+    "description": "Commercial copy and drill mapping entry for arms outracing pivot."
+  },
+  {
+    "id": "issue-29",
+    "label": "Dynamic balance leak",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for dynamic balance leak.",
+    "description": "Commercial copy and drill mapping entry for dynamic balance leak."
+  },
+  {
+    "id": "issue-30",
+    "label": "Late impact extension",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for late impact extension.",
+    "description": "Commercial copy and drill mapping entry for late impact extension."
+  },
+  {
+    "id": "issue-31",
+    "label": "Screen border uncertain",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for screen border uncertain.",
+    "description": "Commercial copy and drill mapping entry for screen border uncertain."
+  },
+  {
+    "id": "issue-32",
+    "label": "Strong moire / banding",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for strong moire / banding.",
+    "description": "Commercial copy and drill mapping entry for strong moire / banding."
+  },
+  {
+    "id": "issue-33",
+    "label": "Camera angle penalty high",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for camera angle penalty high.",
+    "description": "Commercial copy and drill mapping entry for camera angle penalty high."
+  },
+  {
+    "id": "issue-34",
+    "label": "Low contrast subject",
+    "focus": "general",
+    "severityBands": {
+      "minor": 0.45,
+      "moderate": 0.65,
+      "major": 0.82
+    },
+    "quickTip": "Priority cue for low contrast subject.",
+    "description": "Commercial copy and drill mapping entry for low contrast subject."
+  }
+]

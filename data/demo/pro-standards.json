@@ -1,0 +1,12 @@
+{
+  "tempoRatio": 3.0,
+  "shoulderTurnTop": 88,
+  "hipTurnTop": 41,
+  "xFactorTop": 47,
+  "spineTiltAddress": 31,
+  "spineTiltImpact": 28,
+  "headSwayImpactCm": 2.1,
+  "finishBalance": 93,
+  "screenReadability": 88,
+  "screenConfidence": 90
+}

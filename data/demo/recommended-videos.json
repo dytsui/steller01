@@ -1,0 +1,44 @@
+[
+  {
+    "id": "vid-01",
+    "title": "Quiet head through impact",
+    "duration": "03:24",
+    "focus": "Impact stability",
+    "description": "Use the head box overlay to keep the upper center calm until the ball is gone."
+  },
+  {
+    "id": "vid-02",
+    "title": "Trail hip depth basics",
+    "duration": "04:15",
+    "focus": "Rotation",
+    "description": "How to turn the trail hip behind you without standing up."
+  },
+  {
+    "id": "vid-03",
+    "title": "Film a TV swing without glare",
+    "duration": "02:10",
+    "focus": "Screen Mode",
+    "description": "Reduce reflections, square the screen, enlarge the player ROI."
+  },
+  {
+    "id": "vid-04",
+    "title": "Build a 3:1 tempo feel",
+    "duration": "05:02",
+    "focus": "Tempo",
+    "description": "Simple clap and count drills to slow the start and preserve speed later."
+  },
+  {
+    "id": "vid-05",
+    "title": "Lead wrist top checkpoint",
+    "duration": "03:47",
+    "focus": "Wrist structure",
+    "description": "Mirror feels for a cleaner top position and clubface orientation."
+  },
+  {
+    "id": "vid-06",
+    "title": "Finish pose stability",
+    "duration": "02:58",
+    "focus": "Finish balance",
+    "description": "Hold the finish and train balance under real swing speed."
+  }
+]
