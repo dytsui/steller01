@@ -1,0 +1,33 @@
+{
+  "name": "steller01",
+  "version": "1.26.0-redo",
+  "private": true,
+  "description": "Cloudflare-first commercial golf AI coaching app with structured analysis pipeline.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "db:apply": "wrangler d1 execute steller01db --file=./db/schema.sql",
+    "db:seed": "wrangler d1 execute steller01db --file=./db/seed.sql",
+    "typecheck:light": "tsc --noEmit",
+    "db:reset": "wrangler d1 execute steller01db --file=./db/schema.sql && wrangler d1 execute steller01db --file=./db/seed.sql"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.511.0",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.5.2",
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "typescript": "^5.8.2",
+    "wrangler": "^4.11.1"
+  }
+}

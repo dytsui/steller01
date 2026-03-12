@@ -1,0 +1,80 @@
+{
+  "sessionId": "swing-demo-001",
+  "title": "Ava · 7 iron baseline",
+  "mode": "upload",
+  "phases": [
+    {
+      "label": "Address",
+      "frameIndex": 4,
+      "confidence": 0.94,
+      "t": 0.12
+    },
+    {
+      "label": "Top",
+      "frameIndex": 39,
+      "confidence": 0.88,
+      "t": 1.28
+    },
+    {
+      "label": "Impact",
+      "frameIndex": 51,
+      "confidence": 0.92,
+      "t": 1.68
+    },
+    {
+      "label": "Finish",
+      "frameIndex": 83,
+      "confidence": 0.86,
+      "t": 2.73
+    }
+  ],
+  "metrics": {
+    "shoulderTurnTop": 83,
+    "hipTurnTop": 36,
+    "xFactorTop": 47,
+    "spineTiltAddress": 31,
+    "spineTiltImpact": 24,
+    "headSwayImpactCm": 3.8,
+    "wristArcHeight": 54,
+    "finishBalance": 86,
+    "tempoRatio": 2.9,
+    "backswingSec": 1.16,
+    "downswingSec": 0.4,
+    "screenReadability": 84,
+    "screenConfidence": 87
+  },
+  "issues": [
+    {
+      "id": "head-sway-impact",
+      "label": "Head sway through impact",
+      "severity": "moderate",
+      "confidence": 0.81,
+      "evidence": "Head box exited forward by 3.8 cm during the strike window.",
+      "quickTip": "Keep your face centered while the chest keeps turning.",
+      "coachingNote": "The strike can get inconsistent when the upper center drifts early."
+    }
+  ],
+  "screen": {
+    "brightnessMean": 119,
+    "contrast": 0.67,
+    "glareRatio": 0.11,
+    "edgeDensity": 0.58,
+    "borderConfidence": 0.86,
+    "subjectScale": 0.41,
+    "anglePenalty": 0.08,
+    "bandingScore": 0.12,
+    "readabilityScore": 84,
+    "screenConfidence": 87,
+    "warnings": []
+  },
+  "score": {
+    "total": 82,
+    "subscores": {
+      "tempo": 84,
+      "sequence": 80,
+      "screen": 88,
+      "balance": 79
+    }
+  },
+  "warnings": []
+}

@@ -1,0 +1,16 @@
+<svg width="420" height="88" viewBox="0 0 420 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mintGoldH" x1="0" y1="0" x2="90" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55D6B2"/>
+      <stop offset="1" stop-color="#D2A647"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="84" height="84" rx="24" fill="#0A1714" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M48 16C34 16 22 28 22 42C22 56 34 68 48 68C62 68 74 56 74 42" stroke="url(#mintGoldH)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M47 29L57 64" stroke="#F2F7F5" stroke-width="4.5" stroke-linecap="round"/>
+  <circle cx="62" cy="26" r="6" fill="#D2A647"/>
+  <path d="M30 76H66" stroke="#55D6B2" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="29" cy="76" r="3.8" fill="#F2F7F5"/>
+  <text x="102" y="38" fill="#F2F7F5" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">steller01</text>
+  <text x="102" y="63" fill="#9FB0AA" font-family="Inter, Arial, sans-serif" font-size="16">Coach · Trusted analysis first</text>
+</svg>
