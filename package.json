@@ -8,6 +8,7 @@
     "build": "next build",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
     "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
     "db:apply": "wrangler d1 execute steller01db --file=./db/schema.sql",
     "db:seed": "wrangler d1 execute steller01db --file=./db/seed.sql",
